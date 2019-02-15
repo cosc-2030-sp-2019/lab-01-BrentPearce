@@ -11,16 +11,24 @@ using namespace std;
 
 int main()
 {
+	//declare needed vars
 	string line;
 	string whitespace(" \t\f\v\n\r");
 	vector<string> pix_list;
 	int i, count, n;
+
+	// create the input file stream where the pixels are read from.
 	ifstream pixf_full;
-	pixf_full.open("PixLinesFrank.txt");
+	pixf_full.open("PixData.txt");
+
+	//create the output file stream where the compressed data is written to.
 	ofstream pixf_cmpr;
-	pixf_cmpr.open("PixCmprsFrank.txt");
+	pixf_cmpr.open("PixCmprsData.txt");
+	
+	//test to see if the input file opened.
 	if (pixf_full.is_open()) cout << "Input pixf_full is open.";
-	// Read into pix_list.
+	
+	// Read the file (copy the contents of the file into the pix_list vector
 	i = 0;
 	while (getline(1.__________________________________))
 	{
@@ -54,6 +62,6 @@ int main()
 		}
 	}
 
+	
 	return 0;
 }
-
