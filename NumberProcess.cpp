@@ -1,3 +1,13 @@
+// NumberProcess.cpp
+// Brent Pearce
+// COSC 2030
+// Lab 01 part 1
+// This file accepts a file/file path as an input parameter to int main
+// and (assuming the file only contains numbers(integers or doubles) and 
+// whitespace) saves the count of numbers in the file, the first, penultimate,
+// and last number in the file and reports them to the console.
+
+
 #include<cstdlib>
 #include<iostream>
 #include<fstream>
@@ -9,31 +19,28 @@ public:
 		//std::cin.ignore();
 		std::cin.get();
 	}
-	//Keep reunning class found in followin forum thread:
+	//Keep reunning class found in following forum thread:
 	// http://www.cplusplus.com/forum/beginner/1988/#msg7682
 	// I am not the original author.
 };
 
 
-int main()
+int main(int argc, char *argv[])
 { 
 	KeepRunning Kr;
 
 	double alpha, psi, omega, tempHolder;
 	int	count = 0;
 
-	//int argc, char *argv[]
-	///*
 	//If the file or file path isn't provided.
-	//if (argc != 2) 
-	//{
-	//	kill the program
-	//	return EXIT_FAILURE;
-	//}
-	//*/
-
+	if (argc != 2) 
+	{
+		//kill the program
+		return EXIT_FAILURE;
+	}
+	
 	// create a file stream opening the 
-	std::ifstream inFile("InputFileTest.txt");
+	std::ifstream inFile(argv[1]);
 	
 	//if the file couldn't be opened
 	if (!inFile)
@@ -69,8 +76,10 @@ int main()
 		}
 	}
 
+	inFile.close();
+
 	//If the file was empty(or didn't have ints) report that.
-	if (count == 0)
+	if (count == 0x00)
 	{
 		std::cout << "The file was empty or didn't contain any numbers"
 				  << std::endl;

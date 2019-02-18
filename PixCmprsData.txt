@@ -1,0 +1,397 @@
+ISO ffc0c0c 647
+NEW ffffff00
+ISO ffc0c0c 63
+NEW ffffff00
+ISO ffc0c0c 23
+ISO ff0000f 2
+ISO ffc0c0c 39
+ISO ffffff0 2
+ISO ffc0c0c 20
+NEW ff808080
+ISO ff0000f 3
+ISO ffc0c0c 39
+ISO ffffff0 3
+ISO ffc0c0c 5
+NEW ffff0000
+NEW ffc0c0c0
+NEW ffffffff
+ISO ffc0c0c 10
+ISO ff0000f 4
+ISO ffc0c0c 47
+ISO ffff000 5
+NEW ffc0c0c0
+NEW ffffffff
+ISO ffc0c0c 5
+NEW ff808080
+ISO ff0000f 4
+NEW ffffffff
+ISO ffc0c0c 45
+ISO ffff000 7
+ISO ffc0c0c 6
+ISO ff0000f 5
+NEW ff800080
+ISO ffff000 7
+NEW ffc0c0c0
+NEW ffffffff
+ISO ffc0c0c 30
+NEW ffffff00
+ISO ffc0c0c 5
+NEW ffffffff
+NEW ffc0c0c0
+ISO ffff000 5
+ISO ffc0c0c 5
+NEW ffff0000
+ISO ff0000f 6
+ISO ffff000 18
+ISO ffc0c0c 19
+ISO ffffff0 2
+ISO ffc0c0c 6
+ISO ff80808 3
+NEW ffc0c0c0
+NEW ffffffff
+ISO ffc0c0c 7
+NEW ffff0000
+ISO ff0000f 6
+ISO ffff000 19
+ISO ffc0c0c 25
+NEW ffffff00
+ISO ff80808 6
+ISO ffc0c0c 5
+ISO fffffff 2
+ISO ff0000f 6
+ISO fffffff 6
+NEW ffc0c0c0
+ISO ffff000 13
+NEW ffffffff
+ISO ffc0c0c 24
+ISO ffffff0 3
+ISO ff80808 2
+ISO ffc0c0c 6
+ISO fffffff 2
+ISO ff0000f 6
+ISO ff80808 8
+NEW ffc0c0c0
+ISO fffffff 7
+NEW ffc0c0c0
+ISO ffff000 3
+NEW ff808080
+ISO ffc0c0c 26
+ISO ffffff0 2
+NEW ff808080
+ISO ffc0c0c 6
+ISO ff80808 2
+ISO ff0000f 6
+ISO ff80808 11
+NEW ffc0c0c0
+ISO fffffff 5
+NEW ffc0c0c0
+ISO ffff000 3
+ISO ffc0c0c 24
+ISO ffffff0 3
+NEW ffffffff
+ISO ffc0c0c 6
+ISO ff80808 3
+ISO ff0000f 6
+ISO ff80808 12
+ISO ffc0c0c 3
+ISO fffffff 3
+ISO ffff000 3
+ISO ffc0c0c 23
+NEW ffffff00
+ISO fffffff 4
+ISO ffc0c0c 6
+ISO ff80808 3
+ISO ff0000f 6
+ISO fffffff 7
+NEW ffc0c0c0
+ISO ff80808 6
+NEW ffc0c0c0
+ISO fffffff 3
+ISO ffff000 3
+ISO ffc0c0c 22
+ISO fffffff 5
+ISO ffc0c0c 6
+ISO fffffff 4
+ISO ff0000f 6
+ISO fffffff 9
+ISO ffc0c0c 5
+NEW ff808080
+NEW ffc0c0c0
+ISO fffffff 2
+ISO ffff000 3
+ISO ffc0c0c 22
+ISO fffffff 4
+ISO ffc0c0c 6
+ISO fffffff 5
+NEW ff808080
+ISO ff0000f 5
+ISO fffffff 9
+ISO ffc0c0c 5
+ISO ff80808 2
+NEW ffc0c0c0
+NEW ffffffff
+ISO ffff000 3
+ISO ffc0c0c 22
+NEW ffffff00
+ISO fffffff 3
+ISO ffc0c0c 6
+ISO fffffff 5
+NEW ffc0c0c0
+ISO ff80808 2
+ISO ff0000f 2
+ISO ff80808 11
+NEW ffc0c0c0
+ISO fffffff 2
+NEW ff808080
+ISO ffc0c0c 3
+NEW ffffffff
+ISO ffff000 3
+NEW ffffffff
+ISO ffc0c0c 22
+ISO ffffff0 2
+ISO ffc0c0c 6
+ISO ff80808 23
+NEW ffc0c0c0
+NEW ffffffff
+ISO ffc0c0c 4
+NEW ffffffff
+ISO ffff000 3
+NEW ff808080
+ISO ffc0c0c 22
+NEW ff808080
+ISO ffc0c0c 7
+ISO ff80808 22
+ISO ffc0c0c 4
+ISO ff80808 3
+NEW ffffffff
+NEW ffc0c0c0
+ISO ffff000 3
+ISO ffc0c0c 29
+ISO ff80808 13
+NEW ffc0c0c0
+ISO fffffff 8
+ISO ffc0c0c 8
+ISO fffffff 2
+ISO ffff000 3
+ISO ffc0c0c 29
+ISO ff80808 13
+NEW ffc0c0c0
+ISO fffffff 9
+ISO ffc0c0c 7
+ISO fffffff 2
+ISO ffff000 3
+ISO ffc0c0c 28
+ISO ff80808 22
+NEW ffc0c0c0
+ISO fffffff 2
+ISO ffc0c0c 4
+ISO ff80808 2
+NEW ffc0c0c0
+NEW ffffffff
+ISO ffff000 3
+NEW ffffffff
+ISO ffc0c0c 13
+ISO ffffff0 3
+NEW ffffffff
+ISO ffc0c0c 8
+ISO ff80808 7
+NEW ffc0c0c0
+ISO fffffff 3
+NEW ffc0c0c0
+ISO ff0000f 3
+ISO ff80808 11
+ISO ffc0c0c 5
+ISO ff80808 3
+NEW ffffffff
+ISO ffff000 3
+NEW ff808080
+ISO ffc0c0c 11
+ISO ffffff0 7
+ISO ffc0c0c 6
+ISO ff80808 5
+NEW ffc0c0c0
+ISO fffffff 6
+NEW ff808080
+ISO ff0000f 4
+ISO ff80808 10
+ISO ffc0c0c 7
+NEW ff808080
+NEW ffffffff
+NEW ffc0c0c0
+ISO ffff000 3
+ISO ffc0c0c 21
+NEW ffffff00
+NEW ffc0c0c0
+ISO ff80808 4
+NEW ffc0c0c0
+ISO fffffff 8
+ISO ff0000f 5
+ISO fffffff 7
+NEW ffc0c0c0
+ISO ff80808 5
+ISO ffc0c0c 4
+NEW ff808080
+ISO fffffff 2
+ISO ffff000 3
+ISO ffc0c0c 19
+ISO ffffff0 2
+NEW ffc0c0c0
+ISO ff80808 8
+NEW ffc0c0c0
+ISO fffffff 4
+NEW ffc0c0c0
+ISO ff0000f 5
+ISO fffffff 11
+ISO ffc0c0c 5
+ISO ff80808 2
+ISO fffffff 2
+ISO ffff000 4
+ISO ffc0c0c 15
+ISO ffffff0 3
+ISO fffffff 2
+ISO ff80808 15
+ISO ff0000f 5
+ISO ff80808 10
+ISO ffc0c0c 6
+NEW ff808080
+NEW ffc0c0c0
+ISO fffffff 2
+NEW ffc0c0c0
+ISO ffff000 3
+ISO ffc0c0c 12
+ISO ffffff0 3
+ISO fffffff 5
+NEW ffc0c0c0
+ISO ff80808 13
+ISO ff0000f 6
+ISO ff80808 10
+ISO ffc0c0c 7
+ISO fffffff 3
+NEW ffc0c0c0
+ISO ffff000 3
+ISO ffc0c0c 11
+ISO ffffff0 2
+ISO fffffff 16
+NEW ffc0c0c0
+ISO ff80808 4
+ISO ff0000f 6
+ISO ff80808 10
+ISO ffc0c0c 6
+ISO fffffff 4
+ISO ffff000 3
+NEW ff808080
+ISO ffc0c0c 11
+ISO ffffff0 10
+ISO fffffff 5
+NEW ffc0c0c0
+ISO ffff000 7
+ISO ff0000f 6
+ISO fffffff 20
+ISO ffff000 3
+NEW ffffffff
+ISO ffc0c0c 18
+ISO ffffff0 3
+ISO fffffff 2
+NEW ffc0c0c0
+ISO ffff000 10
+ISO ff0000f 6
+NEW ffff0000
+NEW ffc0c0c0
+ISO fffffff 17
+NEW ffc0c0c0
+ISO ffff000 3
+ISO ffc0c0c 18
+NEW ffffff00
+ISO fffffff 2
+NEW ffc0c0c0
+ISO ffff000 13
+ISO ff0000f 6
+ISO ffff000 23
+ISO ffc0c0c 17
+NEW ffffff00
+ISO fffffff 3
+ISO ffff000 3
+NEW ffffff00
+ISO ffff000 3
+NEW ff808080
+NEW ffffffff
+ISO ffc0c0c 5
+ISO ff0000f 6
+ISO ffff000 22
+ISO ffc0c0c 16
+ISO ffffff0 2
+ISO fffffff 4
+NEW ffc0c0c0
+ISO ffffff0 3
+NEW ff808080
+NEW ffffffff
+ISO ffc0c0c 8
+ISO ff0000f 6
+ISO ffff000 20
+NEW ff808080
+NEW ffffffff
+ISO ffc0c0c 15
+NEW ffffff00
+ISO fffffff 5
+ISO ffffff0 3
+ISO ffc0c0c 12
+ISO ff0000f 6
+ISO ffc0c0c 36
+NEW ffffff00
+ISO fffffff 5
+ISO ffffff0 3
+ISO ffc0c0c 13
+NEW ff808080
+ISO ff0000f 5
+ISO ffc0c0c 36
+NEW ffffff00
+ISO fffffff 3
+ISO ffffff0 2
+NEW ffc0c0c0
+NEW ffffff00
+ISO ffc0c0c 15
+ISO ff0000f 5
+ISO ffc0c0c 35
+NEW ffffff00
+NEW ffffffff
+ISO ffffff0 3
+ISO ffc0c0c 3
+NEW ffffff00
+ISO ffc0c0c 16
+ISO ff0000f 4
+ISO ffc0c0c 35
+ISO ffffff0 2
+ISO ffc0c0c 5
+NEW ffffff00
+ISO ffc0c0c 17
+ISO ff0000f 3
+ISO ffc0c0c 43
+NEW ffffff00
+ISO ffc0c0c 17
+NEW ff808080
+ISO ff0000f 2
+ISO ffc0c0c 42
+NEW ffffff00
+ISO ffc0c0c 19
+NEW ff808080
+ISO ffc0c0c 43
+NEW ffffff00
+ISO ffc0c0c 62
+NEW ffffff00
+ISO ffc0c0c 63
+NEW ffffff00
+ISO ffc0c0c 62
+NEW ffffff00
+ISO ffc0c0c 63
+NEW ffffff00
+ISO ffc0c0c 63
+NEW ffffff00
+ISO ffc0c0c 62
+NEW ffffff00
+ISO ffc0c0c 63
+NEW ffffff00
+ISO ffc0c0c 63
+NEW ffffff00
+ISO ffc0c0c 63
+NEW ffffff00
+ISO ffc0c0c 310
